@@ -1,0 +1,19 @@
+# Closed-testing testers (need >= 12 opted-in for 14 days to unlock production)
+# Count: 13 — meets the 12 minimum. A couple spare is wise in case some don't opt in.
+
+nishitaadwani12@gmail.com
+nishitaadwani@gmail.com
+vidit02mehra@gmail.com
+switchpath10@gmail.com
+niveeapps12@gmail.com
+manishaadwani931@gmail.com
+manisha.adwani8299@gmail.com
+milo.helloxx@gmail.com
+aslitohfa@gmail.com
+indian2113pawar@gmail.com
+deepanshuarora2091@gmail.com
+yoyobantai070@gmail.com
+jeanepolos.bbah@gmail.com
+
+# Comma-separated (paste into Play Console tester email list):
+# nishitaadwani12@gmail.com, nishitaadwani@gmail.com, vidit02mehra@gmail.com, switchpath10@gmail.com, niveeapps12@gmail.com, manishaadwani931@gmail.com, manisha.adwani8299@gmail.com, milo.helloxx@gmail.com, aslitohfa@gmail.com, indian2113pawar@gmail.com, deepanshuarora2091@gmail.com, yoyobantai070@gmail.com, jeanepolos.bbah@gmail.com
