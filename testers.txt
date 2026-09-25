@@ -17,3 +17,12 @@ jeanepolos.bbah@gmail.com
 
 # Comma-separated (paste into Play Console tester email list):
 # nishitaadwani12@gmail.com, nishitaadwani@gmail.com, vidit02mehra@gmail.com, switchpath10@gmail.com, niveeapps12@gmail.com, manishaadwani931@gmail.com, manisha.adwani8299@gmail.com, milo.helloxx@gmail.com, aslitohfa@gmail.com, indian2113pawar@gmail.com, deepanshuarora2091@gmail.com, yoyobantai070@gmail.com, jeanepolos.bbah@gmail.com
+
+# --- UK launch status (2026-09-25) ---
+# Play developer account verified (Nivee, Personal). App: Life in the UK Test, pkg com.citizenshipapps.lifeintheuk.
+# Firebase project citizenship-apps (citizenship-apps-270d1); demo reviewer account reviewer@nivee.app / Review1234! (treated as premium in-app).
+# Legal hosted: https://nishitaadwani12.github.io/nivee-legal/ (privacy.html, terms.html, delete-account.html).
+# Subscriptions live: uk_premium_weekly (₹150/wk), uk_premium_quarterly (₹1500/3mo).
+# Internal testing rolled out (version code 2). Closed testing (Alpha) release created + SENT FOR REVIEW.
+# BillDesk cross-border KYC submitted (pending) — needed for non-India payouts.
+# NEXT: await review approval -> send closed-test opt-in link to 13 testers -> 12+ opt in -> 14-day test -> apply for production.
